@@ -6,3 +6,7 @@ Tech used:
 3. Express server
 4. NodeJS
 5. REST API
+
+
+
+![Screenshot (178)](https://user-images.githubusercontent.com/73303787/175787714-5ff0afb2-a4ee-434f-8ddf-8b4a478f31b2.png)
