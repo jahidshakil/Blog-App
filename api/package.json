@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0",
+    "mongos": "^0.0.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.18",
+    "supervisor": "^0.12.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
